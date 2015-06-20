@@ -27,6 +27,12 @@
 *.i*86
 *.x86_64
 *.hex
+xiag
 
 # Debug files
 *.dSYM/
+
+# Other
+*.depend
+*.log
+*.mak
