@@ -1,0 +1,37 @@
+<root>
+  <chapter id="ch1">
+    <scene id="sc1">
+<!--   First ROOM   -->
+      <room id="ro1">
+        <entity id="key" inventory="no" state="exists">
+          <take entity="ch1.sc1.ro1.key" inventory="no" state="exists">
+            <inventory entity="ch1.sc1.ro1.key">yes</inventory>
+          </take>
+        </entity>
+        <entity id="door" inventory="no" state="close">
+          <use_with entity="ch1.sc1.ro1.key" inventory="yes">
+            <state entity="ch1.sc1.ro1.door">open</state>
+            <inventory entity="ch1.sc1.ro1.key">no</inventory>
+            <state entity="ch1.sc1.ro1.key">dead</state>
+          </use_with>
+          <move entity="ch1.sc1.ro1.door" state="open">
+            <goto room="ch1.sc1.ro2"/>
+          </move>
+        </entity>
+      </room>
+<!--    Second ROOM    -->
+      <room id="ro2">
+<!--        <entity id="key" inventory="no" state="null">
+          <take>
+            <inventory entity="ch1.sc1.ro2.key">yes</inventory>
+          </take>
+        </entity>-->
+        <entity id="door" inventory="no" state="open">
+          <move entity="ch1.sc1.ro2.door" state="open">
+            <goto room="ch1.sc1.ro1"/>
+          </move>
+        </entity>
+      </room>
+    </scene>
+  </chapter>
+</root>

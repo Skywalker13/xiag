@@ -1,0 +1,34 @@
+<root>
+  <chapter id="ch1" name="First Chapter: Game Example for XIAG">
+    <scene id="sc1" name="Scene One">
+      <room id="ro1" name="room">
+        <look entity="ch1.sc1.ro1.key" inventory="no" state="exists">There are a key and a door in this room.</look>
+        <look entity="ch1.sc1.ro1.key" inventory="yes">There is a door in this room.</look>
+        <look entity="ch1.sc1.ro1.key" state="dead">The door is opened.</look>
+        <entity id="key" name="key">
+          <look inventory="no" state="exists">It's a key, and it's on the wall!</look>
+          <look inventory="yes">It's a key for a door and it's with me.</look>
+          <take inventory="no">Sorry, I can't?!</take>
+          <take inventory="yes">Okay, I take it with me.</take>
+        </entity>
+        <entity id="door" name ="door"> 
+          <look state="close">It's a door, and I think that's closed.</look>
+          <look state="open">It's an opened door.</look>
+          <use state="close">Sorry, I can't. The door is closed.</use>
+          <use state="open">I will not close this door.</use>
+          <use_with entity="ch1.sc1.ro1.key" state="dead">Yeah! The key open the door.</use_with>
+          <move state="close">Hey, that's closed!</move>
+          <move state="open">Okay, I'm going in the next room.</move>
+        </entity>
+      </room>
+      <room id="ro2" name="room">
+        <look>I'm in the second room, and there is nothing except the door.</look>
+        <entity id="door" name ="door">
+          <look state="open">It's the door but from this second room.</look>
+          <use_with entity="ch1.sc1.ro1.key" inventory="yes">NO!!</use_with>
+          <move>Okay, now I'm in the first room.</move>
+        </entity>
+      </room>
+    </scene>
+  </chapter>
+</root>

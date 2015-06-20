@@ -1,0 +1,639 @@
+#LyX 1.6.4 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language french
+\inputencoding auto
+\font_roman lmodern
+\font_sans lmss
+\font_typewriter lmtt
+\font_default_family sfdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a5paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1.5cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+XIAG
+\end_layout
+
+\begin_layout Author
+Mathieu SCHROETER
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+La station
+\end_layout
+
+\begin_layout Section
+Cent mètres sous terre
+\end_layout
+
+\begin_layout Standard
+Cent mètres sous terre, voilà une profondeur que je n'oublierais jamais.
+ Toutes ces années dans l'ombre m'ont fait réfléchir.
+ Mais je ne peux oublier l'air de la surface et le soleil couchant.
+ Et pourtant je suis la dessous depuis plus de 10 ans.
+\end_layout
+
+\begin_layout Standard
+Tout commença en l'année 2106
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: bug de dépassement de capacité sur les systèmes UNIX/Linux
+\end_layout
+
+\end_inset
+
+.
+ La guerre nucléaire était imminente et les besoins en matière première
+ se faisaient de plus en plus ressentir.
+ Je faisais partie des récolteurs de minerai du sud-ouest et au départ nous
+ étions cinq, notre travail consistait à extraire les gisements de bauxite
+ des anciennes mines de l'Elpa.
+ Une station avait été construite dans les profondeurs et est totalement
+ autonome.
+ Un puits permettait de remonter les pierres jusqu'à la surface, lequel
+ est aujourd'hui définitivement condamné (à cause du souffle de l'explosion
+ atomique, il y a de ça au moins 6 ans).
+ Et c'est depuis ce jour que tout changea irrémédiablement.
+ Mes collègues effectuaient le transport au moment même où la bombe explosa.
+ Inutile de vous préciser comment ils sont mort.
+ Ce qui est sûr c'est que depuis cet accident je suis totalement prisonnier
+ du monde extérieur.
+\end_layout
+
+\begin_layout Standard
+Le complexe se présente sous la forme d'un abri anti-atomique, mais en bien
+ plus spacieux.
+ Construit sur deux étages, il accueil 25 pièces dont 8 chambres.
+ Le premier étage abrite 4 chambres, 4 toilettes indépendantes, un couloir
+ d'accès, la cuisine et le réfectoire.
+ Une échelle métallique permet de rejoindre le rez-de-chaussée.
+ Celui-ci est très ressemblant au premier, néanmoins un deuxième couloir,
+ un sas
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: trouver les scaphandre pour effectuer une sortie
+\end_layout
+
+\end_inset
+
+ ainsi qu'une salle informatique remplace le réfectoire et la cuisine.
+\begin_inset Newline newline
+\end_inset
+
+Les murs sont de béton armé et d'aluminium pour approximativement 1 mètre
+ d'épaisseur.
+ La station ayant une hauteur de 10 mètres, la hauteur des plafonds est
+ estimée à 3 mètres.
+ Estimée car les isolations varies d'une pièce à l'autre, et l'épaisseur
+ exacte entre les deux étages est tout simplement inconnue.
+\end_layout
+
+\begin_layout Standard
+Ma couchette est relativement modeste.
+ Mise à part le lit, une étagère aborde le mur avec un bureau de chêne en
+ son dessous.
+ Celui-ci contient tout ce dont j'ai besoin pour mon travail, mais je ne
+ passe pas beaucoup d'heures dans ce dortoir.
+ L'activité au sein de la station est si dense, que je suis la plupart du
+ temps dans la salle informatique.
+ L'ordinateur central abrite une entité intelligente nommée Xia, elle s'occupe
+ du bon fonctionnement de la station.
+ Bien sûr, ses raisonnements restent limités, mais il est qu'en même possible
+ d'entretenir un dialogue simple
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: entretenir un dialogue avec Xia (raison, à définir)
+\end_layout
+
+\end_inset
+
+ avec elle.
+ Et surtout, je ne cesse de l'améliorer.
+ Parfois j'ai l'impression de ne plus être seul, et j'ai tendance à oublier
+ que son sens de la répartie n'est rien d'autre que mon imagination traduite
+ en quelques millions de lignes de code.
+\end_layout
+
+\begin_layout Standard
+En plus de la station, Xia s'occupe du réseau électrique.
+ Il faut savoir qu'une centrale géothermique permet d'assurer l'indépendance
+ du complexe.
+ La chaleur du sol est récupérée et transformée en électricité à l'aide
+ de plusieurs turbines à vapeur.
+ Tout ces moteurs thermiques
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: basé sur la physique (thermodynamique)
+\end_layout
+
+\end_inset
+
+ tournent 24 heures sur 24.
+ L'énergie électrique est stockée dans de nombreux accumulateurs au lithium
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: circuit électrique (à définir)
+\end_layout
+
+\end_inset
+
+.
+ La puissance nécessaire au fonctionnement de la station est relativement
+ importante en temps de production, car toute la bauxite n'était pas acheminée
+ à la surface mais une partie était électrolysée
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: concerne la chimie de l'électrolyse
+\end_layout
+
+\end_inset
+
+ directement sur place.
+ Sans rentrer dans trop de détails, le principal minerai traité est du corindon
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: basé sur le minerai
+\end_layout
+
+\end_inset
+
+.
+ Une de ses propriété la plus intéressante est sans doute sa dureté et il
+ est de ce fait le deuxième minerai le plus dur après le diamant.
+ Il va s'en dire que j'ai désactivé tout ce qui concerne la bauxite depuis
+ l'accident.
+ Sans compter que les silos d'aluminium
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: à définir
+\end_layout
+
+\end_inset
+
+ sont presque tous pleins.
+\end_layout
+
+\begin_layout Standard
+Toutes mes actions se font à travers Xia.
+ Je n'ai pas la possibilité physique de me rendre à la centrale comme aux
+ silos.
+ En réalité il existe des scaphandres, mais je n'ai jamais su où ils sont.
+ Et j'espère ne jamais en avoir besoin.
+ L'extérieur de la station est particulièrement peu accueillant.
+\end_layout
+
+\begin_layout Section
+Le sas pressurisé
+\end_layout
+
+\begin_layout Standard
+Les matins se suivent et se ressemblent mais ce premier jour de février
+ est différent.
+ C'est l'anniversaire de mon entrée en service dans le complexe et si ma
+ mémoire ne me fait pas défaut, nous sommes en l'an 2117.
+ Cela peut paraître surprenant mais plus les années passent et moins je
+ me soucie du temps.
+ A tel point que je me met à douter des années, mais quelle importance?
+\end_layout
+
+\begin_layout Standard
+Pour une fois, l'écran de contrôle de ma couchette ne contient aucune alerte
+ et je peux enfin m'offrir une journée de répit.
+ Le mot 
+\begin_inset Quotes eld
+\end_inset
+
+journée
+\begin_inset Quotes erd
+\end_inset
+
+ est quelque peu exagéré, je vis continuellement sous une lumière artificielle
+ et il me tarde de revoir un jour le soleil.
+ Les alertes habituelles font généralement références aux système de filtrage
+ 
+\begin_inset Formula $CO_{\text{2}}$
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Énigme: à définir
+\end_layout
+
+\end_inset
+
+ et c'est principalement une question d'entretien.
+ Il faut croire que l'atmosphère à l'extérieur de la station s'améliore.
+ Quoi qu'il en soit, Xia me le fera savoir si une action s'impose.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+L'air en dehors de la station peut être légèrement mélangé à de la poussière
+ radioactive due à l'explosion d'il y a 6 ans.
+ Il est également très concentré en carbone et en souffre, ce qui encrasse
+ prématurément les filtres.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La station est équipée d'un système très sophistiqué de recyclage des déchets,
+ c'est ainsi que je peux survivre pendant des dizaines d'années sans mettre
+ un pied dehors.
+ Typiquement, 96% de l'eau est directement récupérée des déchets et une
+ partie est extraite de l'humidité extérieur.
+ Étant donné que l'eau est un bon isolant contre la radioactivité, il n'est
+ pas dangereux de l'utiliser après l'avoir correctement nettoyée des impuretés
+ tel que la poussière radioactive.
+ L'eau est stockée dans des réservoirs à température ambiante, je fais donc
+ en sorte de garder quelques bouteilles au frais.
+\end_layout
+
+\begin_layout Standard
+En voulant récupérer de l'eau au réfrigérateur, je m'aperçois que la température
+ a augmenté de 1 degré celsius.
+ Le frigo semble pourtant fonctionner correctement.
+ C'est la première fois que je remarque ce genre de dysfonctionnement, il
+ vaut mieux consulter Xia car il arrive que certaines alertes soient considérées
+ comme mineures et donc uniquement archivées.
+ Se sont des sauvegardes conservées pendant plusieurs années, elle permettent
+ de retracer toutes les manipulations qui ont été effectuées.
+ La salle informatique étant située au rez-de-chaussé, il me faut utiliser
+ les escaliers métallique mais la lampe ne semble pas vouloir s'allumer.
+ C'est très inhabituel, ces ampoules fonctionnant à l'aide de LED, leurs
+ durées de vie est extrêmement élevée.
+ Il ne me reste plus qu'à longer le mur, depuis les escaliers jusqu'à la
+ salle.
+ Dans l'ombre j'aperçois l'écran de veille de l'ordinateur central, et moi
+ qui souhaitait le supprimer.
+ J'ai finalement bien fais de le garder, il permet d'illuminer suffisamment
+ la pièce.
+ J'accède alors au terminal 
+\emph on
+tty1
+\emph default
+ et entre les commandes nécessaires pour visualiser le journal des alertes
+ globales.
+\end_layout
+
+\begin_layout LyX-Code
+user@xiag:~$ tail /var/log/xiaglobal
+\end_layout
+
+\begin_layout LyX-Code
+[xia-global/21170131@2355] Info: geothermal status ok
+\end_layout
+
+\begin_layout LyX-Code
+[xia-global/21170201@0417] Warn: low power on geothermal
+\end_layout
+
+\begin_layout LyX-Code
+Segmentation fault
+\end_layout
+
+\begin_layout LyX-Code
+[xia-global/21170201@0418] Info: no ack received (ignored)
+\end_layout
+
+\begin_layout LyX-Code
+[xia-global/21170201@0903] Info: user access on tty1
+\end_layout
+
+\begin_layout LyX-Code
+^C
+\end_layout
+
+\begin_layout LyX-Code
+user@xiag:~$ _
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+Voilà qui est intéressant et qui pourrait expliquer la raison de l'absence
+ d'alerte sur mon écran de contrôle.
+ Une diminution de puissance a bien été observée par Xia mais le service
+ semble avoir créé une erreur de segmentation
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+prefix "programmation"
+symbol "erreur de segmentation:"
+description "une erreur de segmentation (segmentation fault) est un problème fréquent en programmation. Celle-ci apparaît lorsqu'un programme essaie d'accéder à un emplacement mémoire qui n'est pas autorisé. C'est un peu comparable à une violation de propriété, qui dans le cas d'un programme provoque son arrêt immédiat."
+
+\end_inset
+
+.
+ De ce fait, à part cet avertissement je n'ai rien d'autre.
+ Le service d'alerte s'occupe de la sauvegarde des journaux détaillés, ainsi
+ il va me falloir me rendre directement à la centrale.
+ J'aurais espéré ne jamais y mettre les pieds, sans compter que je ne sais
+ pas où se trouve la combinaison de protection.
+ La centrale est gérée par son propre système informatique et Xia peut uniquemen
+t le contrôler de l'extérieur sans aucune possibilité d'accès au cœur.
+ Les alertes sont disponibles quelque part mais je dois effectuer une connexion
+ manuelle avec mon terminal portatif.
+\end_layout
+
+\begin_layout Standard
+Avant tout il me faut corriger le bug informatique, il serait fâcheux de
+ perdre d'autres informations le temps que je comprenne d'où vient la chute
+ de puissance.
+ Le problème doit forcément se situer dans l'exécutable du service d'alerte
+ qui aurait dû propager l'information jusque dans mes quartiers.
+ Voyons de plus près les sources de logiciel.
+ Un 
+\begin_inset Quotes eld
+\end_inset
+
+Segmentation fault
+\begin_inset Quotes erd
+\end_inset
+
+ s'apparente tout à fait à l'utilisation d'un pointeur
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+prefix "programmation"
+symbol "pointeur:"
+description "un pointeur est une technique permettant de localiser des informations. Le fait qu'il soit non initialisé serait comme avoir les coordonnées d'un lieu géographique étant peut être interdit d'accès. L'accès à ce lieu provoquerait donc l'erreur de segmentation."
+
+\end_inset
+
+ non initialisé et un aperçu rapide du code source le prouve, il manque
+ les éléments de création du rapport.
+ J'ai effectué il y a quelques jours plusieurs modifications triviales du
+ programme sans pour autant le vérifier.
+ Il vaudrait mieux que je lance un contrôle automatique des services par
+ Xia à chaque fois, elle saura déceler les autres erreurs éventuelles.
+ J'avais prévu de lancer le test dans quelques jours, je ne m'attendais
+ vraiment pas à ce qu'un problème critique arrive si vite, et encore moins
+ concernant la centrale géothermique.
+ Il est important de préciser qu'un tel test prend plusieurs heures pour
+ s'effectuer complètement, et bloque totalement l'utilisation du système.
+ Je peux néanmoins indiquer quelles parties de la station ne doivent pas
+ être affectées, comme typiquement le sas de sortie et l'accès à la centrale
+ géothermique.
+ Il est donc judicieux d'exécuter ce contrôle, je tape les commandes adéquates
+ tout en gardant accessibles les zones mentionnées précédemment.
+ L'écran indique toutes les sections qui seront bloquées et un bruit sourd
+ commence à se faire entendre.
+ Cela vient de l'activation des systèmes de ventilations auxiliaires, ils
+ ne sont jamais utilisés sauf en cas de contrôle ou de défaut sur les ventilatio
+ns principales.
+\end_layout
+
+\begin_layout Standard
+Il ne me reste plus qu'à mettre la main sur les scaphandres.
+ Étant donné l'absence totale de lumière au rez-de-chaussée, je vais me
+ contenter pour l'instant de la torche de secours disponible dans cette
+ salle.
+ Je l'utilise habituellement pour manipuler des éléments derrière le matériel
+ car il n'y a qu'une seule ampoule dans cette pièce, et elle est relativement
+ mal située.
+ Je me dirige alors vers le sas, il est disponible juste à côté de cette
+ salle.
+ La porte est accessible à tout moment, pour autant que l'accès extérieur
+ soit fermé hermétiquement.
+ Il y a un boîtier ressemblant à un dispositif de secours accroché au mur
+ dans lequel une clef est visible.
+ Je n'ai aucune idée de son utilité et pour l'atteindre, il est nécessaire
+ de casser la vitre à l'aide du marteau sur son côté.
+ Au point où j'en suis, je pense que ça ne me coûtera pas grand chose que
+ de briser le verre, peut être même que ça me donnera accès aux combinaisons.
+\end_layout
+
+\begin_layout Standard
+Je saisi alors le marteau et frappe la vitre d'un coup franc et rapide.
+ Le verre se brise en quelques morceaux et tombe au sol, au même moment
+ une alarme retenti et une lampe rouge se met à clignoter au sommet de la
+ porte du sas.
+ Je saisi rapidement la clef et sors de la pièce précipitamment au cas où
+ j'aurais exécuté le processus de dépressurisation.
+ La porte intérieur se ferme et la porte extérieur commence à gronder, puis
+ un filet de lumière se distingue dans l'obscurité à l'extérieur de la station.
+ Il fait nuit noir mais ce filet lointain m'intrigue, peut être est-ce l'accès
+ à la centrale géothermique.
+ Je ne suis pas sûr, quoi qu'il en soit j'ai bien fais de sortir du sas.
+ Dans le cas contraire je serais mort à cause du froid, de la pression et
+ de la piètre qualité de l'air.
+ Je ne m'attendais pas à cette réaction de la part du système, il n'y a
+ aucun contrôle de sécurité.
+ Heureusement je suis sains et sauf et j'ai pu récupérer la clef, j'espère
+ qu'elle me servira au moins à accéder aux combinaisons de protection.
+ Quelle sale journée!
+\end_layout
+
+\begin_layout Standard
+Cette clef comporte un numéro étrange sur une de ses face.
+ Il est composé de 2 lettres 
+\begin_inset Quotes eld
+\end_inset
+
+E4
+\begin_inset Quotes erd
+\end_inset
+
+ et sans aucune autre annotation.
+ Je suppose que c'est une référence à un document, voir à un système mais
+ lequel? Je remonte alors à l'étage pour fouiller dans mes dossiers, j'ai
+ pour habitude de tout réunir au même endroit.
+ Le tiroir de mon bureau est trié par ordre alphabétique, et bien entendu
+ je n'ai aucune étiquette commençant par la lettre E.
+ Le plus étrange vient des dossiers existants qui concernent absolument
+ toutes les autres lettres de l'alphabet.
+ Le dossier à du glisser, je soulève ainsi le tiroir et j'aperçois un dossier
+ couché sur le fond avec une étiquette vierge.
+ Dans ce dossier il y a 4 pages avec des représentations des combinaisons
+ de sortie.
+ Voilà qui est fort intéressant, la page 4 contient une représentation du
+ boîtier que j'ai brisé précédemment.
+ Il y a également une note manuscrite qui indique que les combinaisons sont
+ provisoirement stockées dans le dépôt du réfectoire.
+ Et bien, je n'étais même pas au courant qu'il y a avait un dépôt dans cette
+ pièce, comme quoi je vais toujours de découvertes en découvertes avec cette
+ station.
+ Les parois de la cuisines avaient été refaites il y a longtemps, je frappe
+ alors contre les murs dans l'espoir d'entendre un son différents, voir
+ creux.
+ Une des plaque semble plus souple que les autres, il y a des rebords tout
+ autour qui permettent de la saisir facilement.
+ Je tire d'un coup sec, celle-ci se décroche soudainement et je peux apercevoir
+ une serrure dans le mur.
+ J'insère la clef, elle correspond parfaitement.
+ Une ouverture apparaît au plafond et une odeur nauséabonde s'en échappe.
+ Je n'y vois absolument rien, je prend alors un tabouret et grimpe avec
+ ma torche dans la trappe.
+\end_layout
+
+\begin_layout Standard
+Je m'attendais à un tout petit dépôt, mais en réalité cet espace s'étend
+ sur plusieurs pièces.
+ Cela explique pourquoi la hauteur des plafonds varie constamment.
+ J'aperçois alors les combinaisons emballées dans des sacs plastiques, j'en
+ saisi une et redescends dans le réfectoire.
+ Au premier abord elle semble en bon état, mais une ouverture sur le côté
+ m'interpelle.
+ A priori elle ne fonctionne pas sans apport externe d'air et une bonbonne
+ doit être greffée sur le côté.
+ Il existe des réserves d'air comprimé dans le sas, elles sont contrôlées
+ automatiquement par Xia afin de garantir leur non toxicité.
+ Je retourne au sas et tape la combinaison adéquate sur l'écran de contrôle
+ fixé sur la porte fermée.
+ Le grondement que j'avais perçu précédemment retenti à nouveau et la porte
+ extérieur commence à se fermer.
+ L'air contaminé est ensuite évacué tout en étant remplacé par celui de
+ la station puis la porte intérieur s'ouvre enfin mais avec difficulté.
+ Une légère différence de pression semble exister pendant la phase de pressurisa
+tion par rapport à la pression intérieur.
+ Cela est sûrement dû à une dé-calibration au fil du temps et à la faible
+ utilisation de ce système.
+ Je devrais m'estimer heureux qu'il fonctionne encore, bien que l'accident
+ précédent semble qu'en même être une anomalie.
+\end_layout
+
+\begin_layout Section
+La centrale géothermique
+\end_layout
+
+\begin_layout Standard
+J'enfile la combinaison et récupère une des bonbonne d'air à disposition.
+ Elle indique une autonomie de 24 heures, ce qui me laisse largement de
+ temps pour travailler à la centrale.
+ Un interrupteur du côté du sas permet de mettre en route le mécanisme.
+ La porte extérieur commence à s'ouvrir, j'aperçois plus nettement le filet
+ de lumière, il vient bien de la centrale.
+ J'ai quelques appréhensions à sortir du sas.
+ C'est la première fois depuis de nombreuses années et je n'ai pas complètement
+ confiance en cette combinaison.
+ Quoi qu'il en soit je n'ai pas le choix, si je ne répare pas la centrale
+ je finirais par être à cours d'énergie.
+ En m'avançant à l'extérieur j'aperçois de nombreuse traces de moisissures
+ sur les parois de la station.
+ L'atmosphère semble beaucoup moins sèche que je l'imaginais.
+ Je referme la porte du sas derrière moi afin d'éviter de l'encrasser bêtement.
+ Car bien que la lumière au loin sois visible, il y a beaucoup de poussière
+ en suspension dans l'air.
+ Le sol est également recouvert d'une très grande quantité de cette poussière
+ et mes pas provoquent tellement de remous que je n'y vois plus rien.
+ Je m'avance en tendant mes mains devant moi.
+ La lumière n'est plus très loin, encore quelques pas et je serais fixé.
+\end_layout
+
+\begin_layout Standard
+Je commence à apercevoir l'entrée de la centrale.
+ La lumière vient de l'intérieur et se reflète dans le hublot de la porte.
+ Une poignée métallique permet d'entrer mais semble endommagée.
+ Je l'attrape fermement, quelques éléments tombent au sol.
+ Le métal est complètement bouffé par la corrosion.
+ Cette structure ne garanti aucune étanchéité, je peux sans autre la laisser
+ dans cette état, au moins pour le moment.
+ L'entrée s'ouvre lentement, la lumière ambiante est suffisamment intense
+ pour me permettre de voir correctement l'état des lieus.
+ Je pénètre alors dans la pièce, il y a des cristaux formés sur l'un des
+ moteur thermique.
+ Se sont eux qui semblent être à l'origine de la lumière et qui bloque la
+ mécanique.
+ Ainsi toute la centrale s'est mise en état d'alerte et a déviée l'énergie
+ sur les accumulateurs.
+ Le seul moyen que tout rentre dans l'ordre est de débloquer le mécanisme,
+ mais briser les cristaux risque de me prendre énormément de temps.
+\end_layout
+
+\begin_layout Standard
+Je m'approche du moteur afin de mieux observer son état, soudain la lumière
+ m'ébloui puis la pénombre envahi rapidement la pièce.
+ J'avance ma main vers les cristaux mais ils semblent avoir disparu.
+ Un grondement sourd puis des claquements se font entendre; le moteur recommence
+ à tourner comme s'il n'avait jamais été bloqué.
+ Je n'y vois plus grand chose, mais ce qui est sûr c'est que les cristaux
+ se sont volatilisés comme par enchantement.
+ Le scaphandre est équipé d'une lampe frontale et me permet de me repérer
+ aisément dans la centrale.
+ Le sol est jonché de cristaux, mais ils semblent complètement inertes contraire
+ment à ceux qui ont disparus.
+ J'en ramasse un échantillon dans l'espoir qu'il pourra m'en apprendre plus.
+ La combinaison est équipée de poches hermétiques.
+ Ne sachant pas de quel nature sont ces cristaux, je préfère ne pas prendre
+ de risque exagéré.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset nomencl_print
+LatexCommand printnomenclature
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
